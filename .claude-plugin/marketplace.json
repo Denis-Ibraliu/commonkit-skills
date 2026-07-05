@@ -1,0 +1,13 @@
+{
+  "name": "commonkit-marketplace",
+  "owner": {
+    "name": "denis-ibraliu"
+  },
+  "plugins": [
+    {
+      "name": "commonkit",
+      "source": "./",
+      "description": "Light engineering-workflow kit: brainstorm, implement, review, ship, architect."
+    }
+  ]
+}

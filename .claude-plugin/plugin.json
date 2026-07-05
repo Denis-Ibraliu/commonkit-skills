@@ -1,0 +1,8 @@
+{
+  "name": "commonkit",
+  "description": "A light engineering workflow kit: brainstorm a spec, implement it, review once at the end, and ship the full git lifecycle.",
+  "version": "0.1.0",
+  "author": {
+    "name": "denis-ibraliu"
+  }
+}
